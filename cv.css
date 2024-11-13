@@ -1,0 +1,57 @@
+.body{
+    background-color: aliceblue;
+    flex-wrap: ;
+}
+
+.foto_profil{
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    border-radius: 100px;
+    margin: 50px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.left{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    flex: 1;
+    background-color: rgb(173, 183, 230);
+}
+
+.info_prib{
+    text-align: center;
+    font-size: 20px;
+}
+.right{
+    flex: 3;
+    background-color: rgb(245, 241, 241);
+    padding: 40px;
+}
+
+.heading1{
+    color: aliceblue;
+}
+
+.heading2{
+    background-color: rgb(187, 193, 226);
+
+    
+}
+    
+
+
+.sosial_media{
+    padding: 10px;
+    justify-content: center;
+    height: 30px;
+}
+
+    
